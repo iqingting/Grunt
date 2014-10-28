@@ -25,7 +25,7 @@ module.exports = function(grunt) {
       }
     },
 
-    // 压缩html
+    // 压缩 html
     htmlmin: {
       target: {
         options: {
